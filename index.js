@@ -3,7 +3,7 @@ const sum = (a, b) => {
 };
 
 const abs = (a, b) => {
-    if (a<0) {
+    if (a < 0) {
         a *= -1;
     }
     if (b < 0) {
