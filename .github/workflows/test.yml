@@ -1,4 +1,4 @@
-name: Node CI Workflow
+name: nodee CI Workflow
 
 on:
   pull_request:
